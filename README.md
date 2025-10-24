@@ -2,6 +2,8 @@
 
 ## Background
 
+Using the HaN-Seg dataset, we will create a U-Net Convoluted Neural Network using tensorflow
+
 HaN-Seg: The head and neck organ-at-risk CT &amp; MR segmentation dataset Challenge
 
 Dataset: https://zenodo.org/records/7442914#.ZBtfBHbMJaQ
@@ -18,3 +20,11 @@ A playground of ipynb files to test parts of the code.
 ### SRC
 
 Contains all the actual code to load, preprocess, train and evaluate the model
+
+## Dependencies
+
+Refer to `requirements.txt` for packages and versions. To install them use:
+
+```
+pip install -r requirements.txt
+```
