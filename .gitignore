@@ -212,3 +212,5 @@ HaN-Seg Hist Eq
 HaN-Seg Normalized
 HaN-Seg Pruned
 HaN-Seg Registered
+
+notebooks/*.keras
