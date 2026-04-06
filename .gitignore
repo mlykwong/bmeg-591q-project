@@ -207,10 +207,10 @@ marimo/_lsp/
 __marimo__/
 
 # Large Datasets
-HaN-Seg
-HaN-Seg Hist Eq
-HaN-Seg Normalized
-HaN-Seg Pruned
-HaN-Seg Registered
+HaN-Seg/
+HaN-Seg Hist Eq/
+HaN-Seg Normalized/
+HaN-Seg Pruned/
+HaN-Seg Registered/
 
 notebooks/*.keras
